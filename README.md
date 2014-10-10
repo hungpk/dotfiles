@@ -10,3 +10,10 @@ Note to self:
     ∴ bundle install
     ∴ rake
 
+Dotfile
+Gemfile
+Gemfile.lock
+README.md
+Rakefile
+bin
+config
